@@ -7,5 +7,9 @@ Training
     <a href="#" class="numb">3</li>
     <a href="#" class="arrow_1">&gt;</a>
   </div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
   
   
