@@ -7,7 +7,8 @@ Training
     <a href="#" class="numb">3</li>
     <a href="#" class="arrow_1">&gt;</a>
   </div>
-* {
+  
+  <style="* {
   box-sizing: border-box;
   font-size: 16px;
   font-weight: 500;
@@ -75,3 +76,4 @@ a{
     color: #fff;
     cursor: pointer;
     }
+">
